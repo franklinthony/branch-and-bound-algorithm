@@ -1,6 +1,5 @@
-#from asyncio.windows_events import NULL
 from Modelo import Modelo
-from leitura import Leitura
+from Leitura import Leitura
 from Resolver import Resolver
 from copy import copy
 from copy import deepcopy
