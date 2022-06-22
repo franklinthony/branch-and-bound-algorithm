@@ -90,4 +90,4 @@ if(integralidade == False):
                     Ramificar(modelo,closest(modelo.vals_vars, 0.5))
 
 print(val_var_global)
-print(Z_global) 
+print(Z_global)
