@@ -6,22 +6,16 @@
   Branch-and-Bound Algorithm
 </h1>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/franklinthony/
-branch-and-bound-algorithm">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/franklinthony/branch-and-bound-algorithm">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/franklinthony/
-branch-and-bound-algorithm">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/franklinthony/branch-and-bound-algorithm">
   
-  <a href="https://github.com/franklinthony/
-branch-and-bound-algorithm/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/franklinthony/
-branch-and-bound-algorithm">
+  <a href="https://github.com/franklinthony/branch-and-bound-algorithm/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/franklinthony/branch-and-bound-algorithm">
   </a>
 
-  <a href="https://github.com/franklinthony/
-branch-and-bound-algorithm/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/franklinthony/
-branch-and-bound-algorithm">
+  <a href="https://github.com/franklinthony/branch-and-bound-algorithm/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/franklinthony/branch-and-bound-algorithm">
   </a>
 </p>
 
