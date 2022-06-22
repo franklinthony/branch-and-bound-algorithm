@@ -1,5 +1,5 @@
 from Modelo import Modelo
-from Leitura import Leitura
+from leitura import Leitura
 from Resolver import Resolver
 from copy import copy
 from copy import deepcopy
