@@ -29,7 +29,7 @@
 
 ## :rocket: Tecnologias
 
-Essas aplicações foram desenvolvidas com a seguinte tecnologia:
+Essa aplicação foi desenvolvida com a seguinte tecnologia:
 
 - [Python-MIP](https://www.python-mip.com/)
 
