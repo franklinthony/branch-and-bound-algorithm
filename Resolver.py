@@ -1,4 +1,3 @@
-#from asyncio.windows_events import NULL
 from mip import Model, xsum, maximize, CONTINUOUS
 
 # FUNÇÃO QUE RESOLVE UM DADO NÓ(MODELO) E RETORNA OS VALORES DE X E Z
